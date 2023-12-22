@@ -1,0 +1,9 @@
+Index: config.py
+===================================================================
+diff --git a/config.py b/config.py
+--- a/config.py	
++++ b/config.py	
+@@ -1,1 +1,1 @@
+-telegram_token = "6957102690:AAEHSXXwm_ufTSZGZfpSAff5hWonSU55TEo"
+\ No newline at end of file
++telegram_token = "6957102690:AAEHSXXwm_ufTSZGZfpSAff5hWonSU55TEo"
