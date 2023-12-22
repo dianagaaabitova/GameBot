@@ -11,7 +11,7 @@ storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 dp.middleware.setup(LoggingMiddleware())
 
-url = 'https://maxizhukov.github.io/telegram_game_front'
+url = 'https://dianagaaabitova.github.io/'
 gameName = "BrainStorm"
 
 
